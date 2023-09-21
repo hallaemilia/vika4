@@ -210,7 +210,6 @@ img {
   padding: 0.5rem;
   margin-bottom: 1rem;
   margin-top: 1rem;
-  margin-right: 1%;
   width: 48%;
   vertical-align: top;
   background-color: var(--color-gold-light);
@@ -224,7 +223,6 @@ img {
 
 .boxes .box a {
   display: flex;
-  margin-top: 1rem;
   font-weight: bold;
   margin-top: auto;
 }
